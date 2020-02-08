@@ -8,6 +8,10 @@
 
 /* Begin PBXBuildFile section */
 		9B17930523EE23E9004E8D3F /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9B17930423EE23E9004E8D3F /* main.swift */; };
+		9B17930C23EE2521004E8D3F /* SStudent.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9B17930B23EE2521004E8D3F /* SStudent.swift */; };
+		9B17930E23EE2659004E8D3F /* CStudent.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9B17930D23EE2659004E8D3F /* CStudent.swift */; };
+		9B17931023EE2C7D004E8D3F /* students.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9B17930F23EE2C7D004E8D3F /* students.swift */; };
+		9B17931223EE4216004E8D3F /* Employee.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9B17931123EE4216004E8D3F /* Employee.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -25,6 +29,10 @@
 /* Begin PBXFileReference section */
 		9B17930123EE23E9004E8D3F /* SwiftClassandStructures */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = SwiftClassandStructures; sourceTree = BUILT_PRODUCTS_DIR; };
 		9B17930423EE23E9004E8D3F /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
+		9B17930B23EE2521004E8D3F /* SStudent.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SStudent.swift; sourceTree = "<group>"; };
+		9B17930D23EE2659004E8D3F /* CStudent.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CStudent.swift; sourceTree = "<group>"; };
+		9B17930F23EE2C7D004E8D3F /* students.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = students.swift; sourceTree = "<group>"; };
+		9B17931123EE4216004E8D3F /* Employee.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Employee.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +66,10 @@
 			isa = PBXGroup;
 			children = (
 				9B17930423EE23E9004E8D3F /* main.swift */,
+				9B17930B23EE2521004E8D3F /* SStudent.swift */,
+				9B17930D23EE2659004E8D3F /* CStudent.swift */,
+				9B17930F23EE2C7D004E8D3F /* students.swift */,
+				9B17931123EE4216004E8D3F /* Employee.swift */,
 			);
 			path = SwiftClassandStructures;
 			sourceTree = "<group>";
@@ -121,6 +133,10 @@
 			buildActionMask = 2147483647;
 			files = (
 				9B17930523EE23E9004E8D3F /* main.swift in Sources */,
+				9B17930C23EE2521004E8D3F /* SStudent.swift in Sources */,
+				9B17930E23EE2659004E8D3F /* CStudent.swift in Sources */,
+				9B17931223EE4216004E8D3F /* Employee.swift in Sources */,
+				9B17931023EE2C7D004E8D3F /* students.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
